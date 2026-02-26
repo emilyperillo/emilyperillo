@@ -1,6 +1,6 @@
-![Uploading image.png…]()
+<img width="6912" height="3456" alt="image" src="https://github.com/user-attachments/assets/d2a5ba68-dd56-4676-93b7-0e5f352cdb24" />
 
-#I'm Emily, a first year MSc's student in Data Science at University of Milano-Bicocca
+# I'm Emily, a first year MSc's student in Data Science at University of Milano-Bicocca
 
 ### About me
 * 🤖 I'm passionate about AI, Machine Learning and Deep Learning
