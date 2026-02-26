@@ -1,5 +1,6 @@
-# Hi there, I'm Emily 👋
-## I’m a first year MSc's student in Data Science at University of Milano-Bicocca
+![Uploading image.png…]()
+
+#I'm Emily, a first year MSc's student in Data Science at University of Milano-Bicocca
 
 ### About me
 * 🤖 I'm passionate about AI, Machine Learning and Deep Learning
