@@ -3,7 +3,7 @@
 # I'm Emily, a first year MSc's student in Data Science at University of Milano-Bicocca
 
 ### About me
-* 🤖 I'm passionate about AI, Machine Learning and Deep Learning
+* 🤖 I'm passionate about AI & Machine Learning applied to Finance and Business
 * 🎓 I have a background in Business Administration, where I graduated with honors.
 * 🚀 Here I share my learning journey and my projects.
 * 📈 **Fun fact:** In the first semester of my Master I was studying Finance, indeed I have many Bloomberg certifications and I know how to use the terminal.
